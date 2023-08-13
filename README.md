@@ -9,3 +9,10 @@
 <b>Untuk penggunaan model silahkan buka di website berikut:</b>
 <a href="https://universe.roboflow.com/fathan-shani-putra-a-pw2zv/oranges-model/model/2">Roboflow</a>
 
+Model ini mendeteksi tingkat kesegaran jeruk menggunakan object detection dengan bounding box
+
+<h3>Segar</h3>
+<img src="assets/Screenshot 2023-08-13 231426.png" />
+
+<h3>Busuk</h3>
+<img src="assets/Screenshot 2023-08-13 231847.png" />
