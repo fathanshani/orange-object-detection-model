@@ -7,7 +7,7 @@
   </p>
 
 <b>Untuk penggunaan model silahkan buka di website berikut:</b>
-<a href="https://universe.roboflow.com/fathan-shani-putra-a-pw2zv/oranges-model/model/2">Roboflow</a>
+<a href="https://universe.roboflow.com/fathan-shani-putra-a-pw2zv/oranges-model/model/2">Roboflow API</a>
 
 Model ini mendeteksi tingkat kesegaran jeruk menggunakan object detection dengan bounding box
 
