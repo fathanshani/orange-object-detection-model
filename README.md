@@ -9,7 +9,7 @@
 <b>Untuk penggunaan model silahkan buka di website berikut:</b>
 <a href="https://universe.roboflow.com/fathan-shani-putra-a-pw2zv/oranges-model/model/2">Roboflow API</a>
 
-Model ini mendeteksi tingkat kesegaran jeruk menggunakan deteksi objek dengan bounding box dan dilatih menggunakan YOLOv8
+Model ini mendeteksi tingkat kesegaran buah jeruk menggunakan deteksi objek dengan bounding box dan dilatih menggunakan YOLOv8
 
 <h3>Segar</h3>
 <img src="assets/Screenshot 2023-08-13 231426.png" />
